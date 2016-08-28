@@ -1,2 +1,3 @@
 # hello-world
-To learn
+To learn the capabilities of git
+
